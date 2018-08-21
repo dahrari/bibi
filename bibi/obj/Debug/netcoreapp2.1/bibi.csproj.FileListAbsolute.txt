@@ -1,0 +1,11 @@
+C:\Users\Hannamari\Desktop\bibi-master\bibi\bin\Debug\netcoreapp2.1\bibi.deps.json
+C:\Users\Hannamari\Desktop\bibi-master\bibi\bin\Debug\netcoreapp2.1\bibi.runtimeconfig.json
+C:\Users\Hannamari\Desktop\bibi-master\bibi\bin\Debug\netcoreapp2.1\bibi.runtimeconfig.dev.json
+C:\Users\Hannamari\Desktop\bibi-master\bibi\bin\Debug\netcoreapp2.1\bibi.dll
+C:\Users\Hannamari\Desktop\bibi-master\bibi\bin\Debug\netcoreapp2.1\bibi.pdb
+C:\Users\Hannamari\Desktop\bibi-master\bibi\obj\Debug\netcoreapp2.1\bibi.csprojAssemblyReference.cache
+C:\Users\Hannamari\Desktop\bibi-master\bibi\obj\Debug\netcoreapp2.1\bibi.csproj.CoreCompileInputs.cache
+C:\Users\Hannamari\Desktop\bibi-master\bibi\obj\Debug\netcoreapp2.1\bibi.AssemblyInfoInputs.cache
+C:\Users\Hannamari\Desktop\bibi-master\bibi\obj\Debug\netcoreapp2.1\bibi.AssemblyInfo.cs
+C:\Users\Hannamari\Desktop\bibi-master\bibi\obj\Debug\netcoreapp2.1\bibi.dll
+C:\Users\Hannamari\Desktop\bibi-master\bibi\obj\Debug\netcoreapp2.1\bibi.pdb

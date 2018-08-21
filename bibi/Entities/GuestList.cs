@@ -6,7 +6,7 @@ namespace bibi.Entities
 {
     class GuestList
     {
-        List<int> Invitees;
+        List<GuestListEntry> Invitees;
         
     }
 }

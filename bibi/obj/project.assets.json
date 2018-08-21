@@ -681,23 +681,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dani\\.nuget\\packages\\": {},
+    "C:\\Users\\Hannamari\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dani\\Source\\Repos\\bibi\\bibi\\bibi.csproj",
+      "projectUniqueName": "C:\\Users\\Hannamari\\Source\\Repos\\bibi\\bibi\\bibi.csproj",
       "projectName": "bibi",
-      "projectPath": "C:\\Users\\dani\\Source\\Repos\\bibi\\bibi\\bibi.csproj",
-      "packagesPath": "C:\\Users\\dani\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dani\\Source\\Repos\\bibi\\bibi\\obj\\",
+      "projectPath": "C:\\Users\\Hannamari\\Source\\Repos\\bibi\\bibi\\bibi.csproj",
+      "packagesPath": "C:\\Users\\Hannamari\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Hannamari\\Source\\Repos\\bibi\\bibi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\dani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Hannamari\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

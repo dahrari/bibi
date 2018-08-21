@@ -6,7 +6,9 @@ namespace bibi
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine(" __     __    \r\n|__) | |__) | \r\n|__) | |__) | ");
+
+            Console.ReadLine();
         }
     }
 }
